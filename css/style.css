@@ -5,12 +5,10 @@ html {
 
 /* Top Navigation */
 div {background-color: #fff; height: 4.5rem;padding: 0 0.938rem; margin: 0 auto; position: fixed; 	
-	width: 100%; border-bottom: 1px solid #DDD;}
+	width: 100%;border-bottom: 1px solid #DDD;}
 div img {width: 26px; padding-left: 23rem;  display: inline-block; padding-top: 17px; padding-bottom: 20px;}
 .links {margin-top: 1.7rem; float: right; color: #838994;font-size: 1.04rem; margin-top: 1.7rem; padding-right: 450px;}
 ul li {display: inline-block; margin-left: 1.563rem; font-weight: lighter;}
-
-
 
 
 .top-navigation .links {
@@ -34,4 +32,13 @@ ul li {display: inline-block; margin-left: 1.563rem; font-weight: lighter;}
 .top-navigation .links li:hover {
     cursor: pointer;
     color: #333333;
+}
+
+/* Background Image Section */
+.introduction {
+    background-image: url('../images/first-background copy.jpg');
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45.938rem;
 }
