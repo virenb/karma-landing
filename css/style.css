@@ -139,7 +139,8 @@ div {
 
 /**
  * The Three Case Images
- */
+*/
+
 .cases {
     background-color: #fff;
     overflow: hidden;
@@ -170,6 +171,7 @@ div {
     font-size: 1.313rem;
 }
 
+
 /**
  * Footer
  */
@@ -197,19 +199,19 @@ div {
 .social .icons > li:hover {
     cursor: pointer;
 }
-.social .twitter {
+.fa_fa-twitter {
     color: #55acee;
 }
-.social .facebook {
+.fa_fa-facebook {
     color: #4c66a4;
 }
-.social .instagram {
+.fa_fa-instagram {
     color: #3f729b;
 }
 .social .copy {
     font-size: 0.9rem;
     font-weight: 300;
-    color: #838994;
+    ;
 }
 
 /**
